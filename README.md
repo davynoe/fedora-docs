@@ -91,3 +91,11 @@ sudo dnf group install Multimedia
 ```
 
 > This is necessary for being able to play various types of video and audio.
+
+## Java Setup for Mobile App Development
+
+Please do NOT mistake package naming convention here. **java-21-openjdk is NOT jdk**, its jre provided by "openjdk". the jdk is -devel
+
+```sh
+sudo dnf5 in java-21-openjdk java-21-openjdk-devel
+```
