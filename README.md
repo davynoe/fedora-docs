@@ -1,6 +1,6 @@
 # Things to do after installing Fedora
 
-Why would you install Fedora out of all 69 distro of Linux? Well..
+Why would you install Fedora out of all 120 distros of Linux? Well..
 - It's stable (unlike Arch Linux)
 - It doesn't push snaps (unlike Ubuntu)
 - The kernel and the drivers are up to date (unlike Debian)
